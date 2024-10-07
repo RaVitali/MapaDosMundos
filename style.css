@@ -1,0 +1,17 @@
+body{
+    background-color:#bbdb45d2;
+    color:black;
+    font-family:"cormorant", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+
+}
+
+button{
+    background-color: rgb(20, 180, 81);
+    color: black;
+    font-family: "cormorant", sans-serif;
+}
